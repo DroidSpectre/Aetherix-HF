@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="hf_yellow">#FFD21E</color>
+    <color name="hf_yellow_dark">#F0C200</color>
+    <color name="hf_yellow_light">#FFECB3</color>
+    <color name="hf_text_on_yellow">#1A1A1A</color>
+    <color name="hf_background">#121212</color>
+    <color name="hf_card_background">#1E1E1E</color>
+    <color name="hf_text_primary">#E0E0E0</color>
+    <color name="hf_text_secondary">#9E9E9E</color>
+    <color name="hf_divider">#333333</color>
+    <color name="hf_badge_text">#FFFFFF</color>
+    <color name="primary">#FFD21E</color>
+    <color name="primaryDark">#F0C200</color>
+    <color name="accent">#FFD21E</color>
+
+    <!-- Launcher icon background (same color) -->
+    <color name="ic_launcher_background">#FFD21E</color>
+</resources>

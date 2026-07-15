@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Download arrow -->
+    <path
+        android:fillColor="#1A1A1A"
+        android:pathData="M54,30 L54,62 M54,62 L42,50 M54,62 L66,50"
+        android:strokeWidth="4"
+        android:strokeColor="#1A1A1A"/>
+    <!-- Horizontal bar at bottom of arrow -->
+    <path
+        android:pathData="M38,68 L70,68"
+        android:strokeWidth="4"
+        android:strokeColor="#1A1A1A" />
+    <!-- Base tray -->
+    <path
+        android:pathData="M34,74 L74,74 L74,78 L34,78 Z"
+        android:fillColor="#1A1A1A" />
+</vector>

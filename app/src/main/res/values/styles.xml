@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Requires API 21+ (Android 5.0) -->
+    <style name="Theme.App" parent="@android:style/Theme.Material.Light.DarkActionBar">
+        <item name="android:colorPrimary">@color/hf_yellow</item>
+        <item name="android:colorPrimaryDark">@color/hf_yellow_dark</item>
+        <item name="android:colorAccent">@color/hf_yellow</item>
+        <item name="android:windowBackground">@color/hf_background</item>
+        <item name="android:textColorPrimary">@color/hf_text_primary</item>
+        <item name="android:textColorSecondary">@color/hf_text_secondary</item>
+    </style>
+</resources>
